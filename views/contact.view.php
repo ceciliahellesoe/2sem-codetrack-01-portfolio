@@ -13,10 +13,10 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            Get in Touch
+            Kontakt mig!
         </h1>
         <p class="page-intro">
-            Have a question or want to collaborate? I'd love to hear from you. Feel free to reach out using the form below or through my social media channels.
+            Har du et spørgsmål, eller kunne du tænke dig et samarbejde? Du er altid velkommen til at kontakte mig gennem oplysningerne neden for. Ser frem til at høre fra dig!
         </p>
     </div>
 </section>
@@ -26,23 +26,23 @@ $this->extend('layout');
         <div class="contact-content">
             <div class="contact-info">
                 <h2>
-                    Contact Information
+                    Kontakt Information
                 </h2>
                 <p>
-                    I'd love to hear from you! Whether you have a question about my work, want to discuss a potential project, or just want to say hello, please don't hesitate to reach out.</p>
+                    Om du har et spørgsmål til mit arbejde, gerne vil snakke samarbejde, eller blot sige hej, så er du altid velkommen til at kontakte mig.</p>
 
                 <ul class="contact-details">
                     <li>
                         <strong>
                             Email:
                         </strong>
-                        <a href="mailto:contact@example.com">
-                            contact@example.com
+                        <a href="ceh005@edu.zealand.dk">
+                            ceh005@edu.zealand.dk
                         </a>
                     </li>
                     <li>
                         <strong>
-                            Phone:
+                            Telefon:
                         </strong>
                         <a href="tel:+4512345678">
                             +45 12345678</a>

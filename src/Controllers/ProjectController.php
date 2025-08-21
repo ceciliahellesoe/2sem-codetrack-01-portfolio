@@ -43,12 +43,12 @@ class ProjectController extends Controller
     {
         return [
             new ProjectDto(
-                title: 'Portfolio Website',
-                description: 'A modern portfolio website built from scratch with PHP. Features a clean, responsive design with a mobile-first approach, optimized performance, and maintainable object-oriented code following the MVC pattern. Includes custom form handling with rate limiting and a modular template system.',
-                technologies: 'PHP, HTML5, CSS3, Responsive Design',
-                image: 'images/projects/portfolio.jpg',
+                title: 'Impactly app - 1. semester eksamensprojekt ',
+                description: 'Mit eksamensprojekt fra 1. semester. Her er der lagt fokus på at skabe et projekt, der opsummerer alle lærte færdigheder fra semesteret. Impactly er en app, der sætter fokus på at skabe bæredygtige vaner i hverdagen for brugerne. Appen er interaktiv, målgruppefokuseret og designet efter brugerens behov. ',
+                technologies: 'HTML, CSS, Responsive Design',
+                image: 'images/projekt1.billede.png',
                 code: 'https://github.com/madh-zealand/2sem-codetrack-01-portfolio',
-                link: '#portfolio',
+                link: 'https://impactly.fjollebolle.dk/html.feed.html',
             ),
             new ProjectDto(
                 title: 'Digital Guestbook',
@@ -65,7 +65,24 @@ class ProjectController extends Controller
                 image: 'images/projects/webgame.jpg',
                 code: 'https://github.com/madh-zealand/tba',
                 link: '#webgame',
-            )
+            ),
+            new ProjectDto(
+                title: 'Browser Game',
+                description: 'A fun and engaging browser-based game built with vanilla JavaScript. Implements game mechanics using the requestAnimationFrame API, features smooth animations, collision detection, and a scoring system. Demonstrates strong understanding of DOM manipulation and event handling.',
+                technologies: 'JavaScript, HTML Canvas, CSS Animations',
+                image: 'images/projects/webgame.jpg',
+                code: 'https://github.com/madh-zealand/tba',
+                link: '#webgame',
+            ),
+
+             new ProjectDto(
+                 title: 'Browser Game',
+                 description: 'A fun and engaging browser-based game built with vanilla JavaScript. Implements game mechanics using the requestAnimationFrame API, features smooth animations, collision detection, and a scoring system. Demonstrates strong understanding of DOM manipulation and event handling.',
+                 technologies: 'JavaScript, HTML Canvas, CSS Animations',
+                 image: 'images/projects/webgame.jpg',
+                 code: 'https://github.com/madh-zealand/tba',
+                 link: '#webgame',
+             )
         ];
     }
 }

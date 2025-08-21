@@ -11,7 +11,7 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            About Me
+            Om mig
         </h1>
         <p class="page-intro">
             Get to know more about my journey, skills, and passion for web development. I'm dedicated to creating elegant solutions to complex problems.
@@ -45,7 +45,7 @@ $this->extend('layout');
             </div>
 
             <div class="about-image">
-                <img src="images/profile-portrait.jpg" alt="Headshot of Abigail looking suspicious" class="portrait-image">
+                <img src="images/bilka2.png" alt="Headshot of Abigail looking suspicious" class="portrait-image">
             </div>
         </div>
     </div>

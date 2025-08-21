@@ -14,17 +14,17 @@
 
     /* Colors */
     --color-text: #333333;
-    --color-text-light: #666666;
+    --color-text-light: #ffffff;
     --color-text-muted: #757575;
-    --color-heading: #222222;
-    --color-primary: #3498db;
+    --color-heading: #ffffff;
+    --color-primary: #a9d0dc;
     --color-primary-dark: #2980b9;
     --color-success: #27ae60;
     --color-danger: #e74c3c;
     --color-danger-dark: #c0392b;
     --color-warning: #f39c12;
-    --color-bg: #ffffff;
-    --color-bg-alt: #f9f9f9;
+    --color-bg: #c5ddf3;
+    --color-bg-alt: #000045;
     --color-border: #eeeeee;
     --color-nav-bg: #333333;
     --color-nav-text: #ffffff;
