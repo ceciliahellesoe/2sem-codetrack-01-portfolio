@@ -51,12 +51,12 @@ class ProjectController extends Controller
                 link: 'https://impactly.fjollebolle.dk/html.feed.html',
             ),
             new ProjectDto(
-                title: 'Digital Guestbook',
-                description: 'An interactive guestbook application that allows visitors to leave messages and engage with the community. Features user-friendly forms with validation, spam protection, and a clean interface. Messages are stored securely and displayed in a paginated format.',
+                title: 'Min digitale gæstebog',
+                description: 'En interaktiv online gæstebog, hvor du kan skrive søde beskeder på min væg.',
                 technologies: 'PHP, MySQL, CSS Grid/Flexbox, Form Validation',
-                image: 'images/projects/guestbook.jpg',
+                image: 'images/guestbook.png',
                 code: 'https://github.com/madh-zealand/tba',
-                link: '#guestbook',
+                link: 'https://guestbook.fjollebolle.dk/',
             ),
             new ProjectDto(
                 title: 'Browser Game',
